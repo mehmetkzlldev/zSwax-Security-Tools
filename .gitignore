@@ -1,0 +1,9 @@
+# Gecici / derleme artiklari
+_smoke.exe
+*.tmp
+*.log
+Thumbs.db
+desktop.ini
+
+# zSwax.exe repo'da tutuluyor. Binari istemezsen asagidaki satiri ac:
+# zSwax.exe
